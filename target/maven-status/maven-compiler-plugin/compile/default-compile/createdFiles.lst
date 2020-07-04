@@ -1,0 +1,4 @@
+com\example\dictionarysimple\config\Config.class
+com\example\dictionarysimple\utils\FileUtil.class
+com\example\dictionarysimple\utils\DictionaryUtil.class
+com\example\dictionarysimple\Main.class
